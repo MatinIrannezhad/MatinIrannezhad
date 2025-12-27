@@ -27,5 +27,5 @@ I am a passionate Python developer focusing on building efficient scripts, Teleg
 
 ### 📊 Github Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[MatinIrannezhad]&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MatinIrannezhad&show_icons=true&theme=radical" alt="stats" />
 </p>
