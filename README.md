@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Matin]
+### Hi there 👋, I'm Matin
 #### Python Developer & Automation Enthusiast 🐍
 
 I am a passionate Python developer focusing on building efficient scripts, Telegram bots, and automation tools. I love solving real-world problems with code.
